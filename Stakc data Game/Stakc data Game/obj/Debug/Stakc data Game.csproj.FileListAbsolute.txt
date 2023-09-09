@@ -1,0 +1,10 @@
+D:\stack data game\Stakc data Game\Stakc data Game\bin\Debug\Stakc data Game.exe.config
+D:\stack data game\Stakc data Game\Stakc data Game\bin\Debug\Stakc data Game.exe
+D:\stack data game\Stakc data Game\Stakc data Game\bin\Debug\Stakc data Game.pdb
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc data Game.csproj.AssemblyReference.cache
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc_data_Game.Form1.resources
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc_data_Game.Properties.Resources.resources
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc data Game.csproj.GenerateResource.cache
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc data Game.csproj.CoreCompileInputs.cache
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc data Game.exe
+D:\stack data game\Stakc data Game\Stakc data Game\obj\Debug\Stakc data Game.pdb
